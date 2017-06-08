@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "35a88325_74714162",
+        "filename": "FitDiary/Nowy dokument tekstowy.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1011432
+      },
+      "writtenOn": "2017-06-08T18:51:46Z",
+      "side": 1,
+      "message": "co to kurwa za komit",
+      "revId": "8f7bdb016a37b5b004ba57fead7622733b0bb858",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
