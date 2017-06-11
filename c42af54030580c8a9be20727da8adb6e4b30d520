@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c648311a_d307f373",
+        "filename": "pliczek",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1011433
+      },
+      "writtenOn": "2017-06-11T19:59:43Z",
+      "side": 1,
+      "message": "dobra zmiana",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 33
+      },
+      "revId": "c42af54030580c8a9be20727da8adb6e4b30d520",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
